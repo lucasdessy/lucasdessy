@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile views](https://gpvc.arturio.dev/lucasdessy)
-### Hi there 👋
 
+[![Github Badge](https://img.shields.io/badge/Github--blue?style=social&logo=github&link=https://github.com/lucasdessy)](https://github.com/lucasdessy)
+### Hi there 👋
+- 🌱 I’m currently learning dart and flutter!
+
+<p align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdessy&show_icons=true&theme=dracula)](https://github.com/lucasdessy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdessy&theme=dracula)](https://github.com/lucasdessy)
-
+</p>
