@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 - 🌱 I’m currently learning dart and flutter!
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdessy&show_icons=true&theme=dracula)](https://github.com/lucasdessy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdessy&show_icons=true&theme=dracula&count_private=true)](https://github.com/lucasdessy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdessy&theme=dracula)](https://github.com/lucasdessy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdessy&theme=dracula&count_private=true)](https://github.com/lucasdessy)
 
