@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/Github--blue?style=social&logo=github&link=https://github.com/lucasdessy)](https://github.com/lucasdessy)
 ### Hi there 👋
 - 🌱 I’m currently learning dart and flutter! (It's been more than a year now!)
-- 📫 How to reach me: you can send me an email! [lucasedu49@gmail.com](mailto:lucasedu49@gmail.com)
+- 📫 How to reach me: you can send me an email! [lucasdessy@protonmail.com](mailto:lucasdessy@protonmail.com)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdessy&show_icons=true&theme=dracula&count_private=true" />
